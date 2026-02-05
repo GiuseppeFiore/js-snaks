@@ -16,4 +16,4 @@ if (parola1.length < parola2.length) {
     console.log("Le parole hanno la stessa lunghezza:");
     console.log(parola1);
     console.log(parola2);
-    }
+}
